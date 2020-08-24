@@ -1,4 +1,4 @@
-# Library
+# Library [adapter pattern][interpreter pattern]
 - Implement a library book index database
   - Books have the following properties (fields): Author, Title, Location
   -  There is a modern database, with data stored in a computer, one
